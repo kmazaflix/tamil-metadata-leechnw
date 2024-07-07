@@ -394,7 +394,7 @@ if len(BASE_URL) == 0:
 
 UPSTREAM_REPO = environ.get('UPSTREAM_REPO', '')
 if len(UPSTREAM_REPO) == 0:
-    UPSTREAM_REPO = 'https://github.com/Tamilupdates/KPSML-X'
+    UPSTREAM_REPO = 'https://github.com/kmazaflix/tamil-metadata-leechnw'
 
 UPSTREAM_BRANCH = environ.get('UPSTREAM_BRANCH', '')
 if len(UPSTREAM_BRANCH) == 0:
@@ -495,11 +495,11 @@ IMG_PAGE = int(IMG_PAGE) if IMG_PAGE.isdigit() else ''
 
 AUTHOR_NAME = environ.get('AUTHOR_NAME', '')
 if len(AUTHOR_NAME) == 0:
-    AUTHOR_NAME = 'KPS Bots'
+    AUTHOR_NAME = 'StreamFlix'
 
 AUTHOR_URL = environ.get('AUTHOR_URL', '')
 if len(AUTHOR_URL) == 0:
-    AUTHOR_URL = 'https://telegram.me/KPSBots'
+    AUTHOR_URL = 'https://t.me/StreamFlix_Updates'
 
 TITLE_NAME = environ.get('TITLE_NAME', '')
 if len(TITLE_NAME) == 0:
@@ -507,7 +507,7 @@ if len(TITLE_NAME) == 0:
     
 COVER_IMAGE = environ.get('COVER_IMAGE', '')
 if len(COVER_IMAGE) == 0:
-    COVER_IMAGE = 'https://graph.org/file/0ff9d5e94a070fe4154c0.jpg'
+    COVER_IMAGE = 'https://graph.org/file/60dbee2e4617c8b2861e3.jpg'
 
 GD_INFO = environ.get('GD_INFO', '')
 if len(GD_INFO) == 0:
