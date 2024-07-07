@@ -221,19 +221,19 @@ function s_validate() {
 </script>
 </head>
 <body>
-  <!--© Designed and coded by @KPS-Bots-->
+  <!--© Designed and coded by @StreamFlix_Updates-->
     <header>
       <div class="brand">
         <img
-          src="https://graph.org/file/1a6ad157f55bc42b548df.png"
+          src="https://graph.org/file/60dbee2e4617c8b2861e3.jpg"
           alt="logo"
         />
-        <a href="https://telegram.me/KPSBots">
+        <a href="https://t.me/StreamFlix_Updates">
           <h2 class="name">Bittorrent Selection</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://telegram.me/KPSBots"><i class="fab fa-telegram"></i></a>
+        <a href="https://t.me/StreamFlix_Updates"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <div id="sticks">
@@ -612,19 +612,19 @@ section span{
     </style>
   </head>
 <body>
-   <!--© Designed and coded by @KPS-Bots -->
+   <!--© Designed and coded by @StreamFlix_Updates -->
     <header>
       <div class="brand">
         <img
-          src="https://graph.org/file/1a6ad157f55bc42b548df.png"
+          src="https://graph.org/file/60dbee2e4617c8b2861e3.jpg"
           alt="logo"
         />
-        <a href="https://telegram.me/KPSBots">
+        <a href="https://t.me/StreamFlix_Updates">
           <h2 class="name">Bittorrent Selection</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://telegram.me/KPSBots"><i class="fab fa-telegram"></i></a>
+        <a href="https://t.me/StreamFlix_Updates"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
@@ -829,16 +829,16 @@ def homepage():
 </head>
 <body>
     <div class="header">
-        <h1>KPS-Bots</h1>
+        <h1>StreamFlix</h1>
     </div>
     <div class="content">
-        <img src="https://graph.org/file/0ff9d5e94a070fe4154c0.jpg" class="image">
-        <a href="https://telegram.me/KPSBots" style="text-decoration: none;">
+        <img src="https://graph.org/file/60dbee2e4617c8b2861e3.jpg" class="image">
+        <a href="https://t.me/StreamFlix_Updates" style="text-decoration: none;">
             <button class="button">Join Updates Channel Now</button>
         </a>
     </div>
     <div class="footer">
-© 2023-24 KPS-Bots. All Rights Reserved.
+© 2023-24 StreamFlix. All Rights Reserved.
     </div>
 </body>
 </html>
