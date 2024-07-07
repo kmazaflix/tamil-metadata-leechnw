@@ -42,8 +42,8 @@ default_values = {'AUTO_DELETE_MESSAGE_DURATION': 30,
                   'BOT_THEME': 'minimal',
                   'BOT_LANG': 'en',
                   'IMG_PAGE': 1,
-                  'AUTHOR_NAME': 'KPS Bots',
-                  'AUTHOR_URL': 'https://telegram.me/KPSBots',
+                  'AUTHOR_NAME': 'StreamFlix',
+                  'AUTHOR_URL': 'https://t.me/StreamFlix_Updates',
                   'TITLE_NAME': 'Leech Bot',
                   'GD_INFO': 'Uploaded by Leech Bot',
                   }
@@ -350,7 +350,7 @@ async def load_config():
 
     UPSTREAM_REPO = environ.get('UPSTREAM_REPO', '')
     if len(UPSTREAM_REPO) == 0:
-        UPSTREAM_REPO = 'https://github.com/Tamilupdates/KPSML-X'
+        UPSTREAM_REPO = 'https://github.com/kmazaflix/tamil-metadata-leechnw'
         
     UPGRADE_PACKAGES = environ.get('UPGRADE_PACKAGES', '')
     UPGRADE_PACKAGES = UPGRADE_PACKAGES.lower() == 'true'
@@ -442,11 +442,11 @@ async def load_config():
 
     AUTHOR_NAME = environ.get('AUTHOR_NAME', '')
     if len(AUTHOR_NAME) == 0:
-        AUTHOR_NAME = 'KPS Bots'
+        AUTHOR_NAME = 'StreamFlix'
 
     AUTHOR_URL = environ.get('AUTHOR_URL', '')
     if len(AUTHOR_URL) == 0:
-        AUTHOR_URL = 'https://telegram.me/KPSBots'
+        AUTHOR_URL = 'https://t.me/StreamFlix_Updates'
 
     TITLE_NAME = environ.get('TITLE_NAME', '')
     if len(TITLE_NAME) == 0:
